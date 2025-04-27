@@ -16,3 +16,15 @@ Clone or download the repository.
 Open the one neuron.ipynb file in Visual Studio Code, Jupyter Notebook, or any other compatible IDE.
 
 Run the code step-by-step to see the learning process of a single neuron.
+
+---
+
+## Contributions
+
+Feel free to fork the repository and submit pull requests if you'd like to contribute to the development or enhancement of this project.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
